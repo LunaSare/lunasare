@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my GitHub profile!
 
-Please visit my academic website at https://lunasare.com
+You can visit my academic website at https://lunasare.com
 
 <!--
 **LunaSare/lunasare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
